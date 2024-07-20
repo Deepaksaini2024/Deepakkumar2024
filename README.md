@@ -6,11 +6,15 @@
 <a href="contact">contact</a>
 <a href="About me">About me</a>
 -</div>
-<style>
-  a{
-    margin-left:20px;
-    }
-</style>
+<h2>present</h2>
+    <li>
+      <p>this is deepak github website</p>
+      This will make to secret codes.<br>
+      And this resent on make deepak
+    </li>
+    <img src="![Screenshot (86)](https://github.com/user-attachments/assets/5e756cef-69ac-417c-adea-f4b0663ac977)">click me</body>img>
+  </body>
+">
 - 👋 Hi, I’m @Deepaksaini2024
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
